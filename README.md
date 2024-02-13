@@ -1,8 +1,7 @@
 ### 
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/OazoCyXHeGyDm">
 
 
-
-<iframe src="https://giphy.com/embed/OazoCyXHeGyDm" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/OazoCyXHeGyDm">via GIPHY</a></p>
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=deflucaseng&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deflucaseng&layout=pie)](https://github.com/deflucaseng/github-readme-stats)
 <!--
