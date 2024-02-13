@@ -4,7 +4,7 @@
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=deflucaseng&show_icons=true&theme=radical)
 
-https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif
+
 
 
 
