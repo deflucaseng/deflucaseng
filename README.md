@@ -1,8 +1,13 @@
 ### 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/OazoCyXHeGyDm">
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=deflucaseng&show_icons=true&theme=radical)
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deflucaseng&layout=pie)](https://github.com/deflucaseng/github-readme-stats)
 <!--
 **deflucaseng/deflucaseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
