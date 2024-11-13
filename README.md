@@ -1,6 +1,5 @@
 ### 
 
-![Alt Text](https://media.giphy.com/media/IEzEJmMFi6XZsxyp2t/giphy.gif?cid=790b76111imgowca9om0vgrmzb1f7dxi35zzkslpdsqctkr5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=deflucaseng&show_icons=true&theme=radical)
 
