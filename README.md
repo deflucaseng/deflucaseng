@@ -32,4 +32,4 @@ I'm a Senior at NYU Polytechnic
 
 ### ⚡ Fun fact
 
-I'm definitely not a cat person.
+I'm something of an animal guy
