@@ -7,7 +7,7 @@ I'm a Senior at NYU Polytechnic
 <div display="flex">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" alt="C++"/>
-  <img src="[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)" alt="React"/>
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React"/>
 </div>
 
 ### 🔭 I’m working on
