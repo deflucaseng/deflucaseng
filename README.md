@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+I'm a Senior at NYU Polytechnic
 
 **I love working with**
 
